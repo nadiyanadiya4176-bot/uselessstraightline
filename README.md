@@ -31,15 +31,11 @@ For Software:
 ### Project Documentation
 For Software:
 
-# Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+# Screenshots <img width="1920" height="1080" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/0d5e1e58-686e-4921-8c8d-ec272aac8896" />
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot2] <img width="1920" height="1080" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/9bbad3fc-b5bc-41d1-9fcc-36643ae1aea2" />
+
 
 
 
